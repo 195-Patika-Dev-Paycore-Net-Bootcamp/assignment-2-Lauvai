@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jMD2zOsSXpdKKLLBKktIm7/BW7xvzf1yNZ+EX1u2fMIfeopOdeKXWSaIHG/t2FZIkQIRiv/E9yWuAXVZ+XsEaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erdem\\source\\repos\\VeliErdemCoskun-Hafta2\\VeliErdemCoskun-Hafta2\\VeliErdemCoskun-Hafta2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erdem\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\erdem\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\erdem\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\erdem\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\erdem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\erdem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
